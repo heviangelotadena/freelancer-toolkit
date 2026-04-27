@@ -1,0 +1,8 @@
+{
+  "name": "invoice-helper",
+  "description": "Drafts client invoices from a short summary of work done.",
+  "version": "0.1.0",
+  "author": {
+    "name": "heviangelotadena"
+  }
+}

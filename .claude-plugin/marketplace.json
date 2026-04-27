@@ -1,0 +1,17 @@
+{
+  "name": "freelancer-toolkit",
+  "owner": {
+    "name": "heviangelotadena"
+  },
+  "metadata": {
+    "description": "Plugins for freelancer workflows: invoicing, client comms, and project tracking.",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "invoice-helper",
+      "source": "./invoice-helper",
+      "description": "Drafts client invoices from a short summary of work done."
+    }
+  ]
+}
