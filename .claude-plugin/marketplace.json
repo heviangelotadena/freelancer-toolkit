@@ -12,6 +12,11 @@
       "name": "invoice-helper",
       "source": "./invoice-helper",
       "description": "Drafts client invoices from a short summary of work done."
+    },
+    {
+      "name": "freelancer-toolkit",
+      "source": "./freelancer-toolkit",
+      "description": "Core freelancer workflow skills: client communication, follow-ups, and project tracking."
     }
   ]
 }
